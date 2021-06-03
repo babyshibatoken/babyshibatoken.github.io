@@ -35,8 +35,8 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Follow Me
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,8 +56,8 @@ address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+
 
 # Build settings
 markdown: kramdown
